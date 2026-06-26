@@ -1,0 +1,32 @@
+h1 {
+  color:#e0cef0 ;
+  font-family: Broadway, Comic Sans, Cooper Black, sans-serif ;
+  font-size: 50px;
+}
+
+.drei {
+  background-color:#f4d8f5 ;
+  color:white ;
+  padding:5px;
+  border:1px solid black ;
+}
+
+.first {
+  height:100px;
+  display:flex;
+  justify-content:center;
+}
+
+.second {
+  height:100px;
+  display: flex;
+  justify-content:flex-start;
+  margin:40px;
+  gap:20px  ;
+}
+
+.try {
+  display:flex;
+  flex-direction: column;
+  gap:10px;
+}
